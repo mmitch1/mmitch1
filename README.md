@@ -11,7 +11,6 @@
 
 ### 📫 How to reach me:
 - **LinkedIn**: [Michael Mitchell](https://linkedin.com/in/michaelkmitchell)
-- **Email**: michael.k.mitchell@gmail.com
 
 ### 💬 Fun fact:
 I’m passionate about both front-end and back-end development and love building full-stack applications.
